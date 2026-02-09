@@ -60,5 +60,10 @@ g++ main.cpp -o travel_system
 
 ---
 
+## 🔗 Connect with Me
+
+* **Portfolio:** [Check out my work](https://my-portfolio-website-six-ashen.vercel.app)
+* **LinkedIn:** [Muhammad Noman](https://www.google.com/search?q=https://www.linkedin.com/in/muhammad-noman-a219712b0)
+
 **Developed with ❤️ by Noman** *BSCS @ UET Taxila | Data Science & ML Enthusiast*
 
